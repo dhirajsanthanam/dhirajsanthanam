@@ -105,12 +105,11 @@ Business Professional with an MBA and Master of Data Science (Monash University)
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirajsanthanam&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajsanthanam&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=dhirajsanthanam&color=blue&style=flat-square)
+
+📌 Currently building out project repositories — check back soon.
 
 ---
 
