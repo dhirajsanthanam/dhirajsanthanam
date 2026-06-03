@@ -22,12 +22,13 @@
 
 ## About Me
 
-Business Professional with an MBA and Master of Data Science (Monash University), backed by 8 years in stakeholder management, client engagement and sales strategy across India, US, Canada, Australia and New Zealand.
+Business Professional with an MBA and Master of Data Science (Monash University), bringing a unique combination of business acumen and technical skills across 8 years in stakeholder management, client engagement and sales strategy.
 
 - 🎯 Targeting **Business Analyst | Product Owner | Data Analyst** roles in Melbourne
 - 🎓 Completing **Master of Data Science** at Monash University (2026)
 - 🤝 Volunteering as **Business Analyst & Data Scientist** at Monash Assistive Technology Team (MATT)
-- 🌡️ Built **StrideSafe** — a heat-safety routing platform for Melbourne using sWBGT, OSMnx, Dijkstra and Groq LLM
+- 💼 Previously at **Freshworks** (SaaS, NASDAQ-listed) and **Swiggy** (food delivery, ₹100Cr GMV market)
+- 🌡️ Built **StrideSafe** — a heat-safety routing platform for Melbourne
 
 ---
 
@@ -56,8 +57,10 @@ Business Professional with an MBA and Master of Data Science (Monash University)
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-333333?style=flat-square)
 
 ---
 
@@ -79,9 +82,26 @@ Business Professional with an MBA and Master of Data Science (Monash University)
 - Automated GitHub-to-Notion synchronisation for cross-team coordination
 - **Role:** Business Analyst & Data Scientist (Volunteer)
 
-### 📊 Coming Soon
-- Uber Eats Melbourne — restaurant segmentation and growth analysis (Python · Power BI · ML)
-- SaaS Churn & CRM — churn prediction and retention strategy (R · Tableau · ML · AI)
+### 📊 In Progress
+- **Uber Eats Melbourne** — restaurant segmentation and growth analysis (Python · Power BI · ML)
+- **SaaS Churn & CRM** — churn prediction and retention strategy (R · Tableau · ML · AI)
+
+---
+
+## Certifications
+
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
+![Supply Chain](https://img.shields.io/badge/Supply%20Chain%20Management-8B0000?style=flat-square)
+
+---
+
+## Education
+
+🎓 **Master of Data Science** — Monash University Australia (2024 - 2026)
+
+🎓 **MBA in Operations & Marketing** — SRM University (2014 - 2016)
+
+🎓 **BE in Electronics & Communications** — Panimalar Engineering College (2009 - 2013)
 
 ---
 
